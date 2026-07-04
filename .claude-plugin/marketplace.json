@@ -1,0 +1,16 @@
+{
+  "name": "second-brain-kit",
+  "owner": {
+    "name": "gompangii",
+    "email": "gompangii@gmail.com",
+    "url": "https://github.com/gompangii"
+  },
+  "plugins": [
+    {
+      "name": "second-brain-kit",
+      "source": "./",
+      "description": "세컨드 브레인 위키 워크플로우(ingest/query/lint) + AI-Readiness Cartography 감사 대시보드를 묶은 스킬 4종 플러그인.",
+      "version": "1.0.0"
+    }
+  ]
+}
