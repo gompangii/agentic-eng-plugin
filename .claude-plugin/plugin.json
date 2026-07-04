@@ -10,6 +10,7 @@
   "homepage": "https://github.com/gompangii/second-brain-kit",
   "repository": "https://github.com/gompangii/second-brain-kit",
   "license": "MIT",
+  "hooks": "./hooks/hooks.json",
   "keywords": [
     "second-brain",
     "llm-wiki",
