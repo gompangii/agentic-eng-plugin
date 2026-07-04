@@ -1,4 +1,4 @@
-# second-brain-kit
+# agentic-eng-plugin
 
 누적형 지식 베이스(**세컨드 브레인**) 워크플로우와 코드베이스 **AI-준비도 감사**를 한데 묶은
 Claude Code 플러그인. 스킬 4종을 슬래시 명령으로 제공한다.
@@ -15,15 +15,15 @@ Claude Code 플러그인. 스킬 4종을 슬래시 명령으로 제공한다.
 ## 설치
 
 ```bash
-claude marketplace add gompangii/second-brain-kit
-claude plugin install second-brain-kit
+claude marketplace add gompangii/agentic-eng-plugin
+claude plugin install agentic-eng-plugin
 ```
 
 로컬에서 바로 시험하려면 (이 폴더 경로로):
 
 ```bash
-claude marketplace add /path/to/second-brain-kit
-claude plugin install second-brain-kit
+claude marketplace add /path/to/agentic-eng-plugin
+claude plugin install agentic-eng-plugin
 ```
 
 ## 전제 (wiki-* 스킬)
@@ -44,7 +44,7 @@ Python 3.10+ 표준 라이브러리만 사용).
 ## 구조
 
 ```
-second-brain-kit/
+agentic-eng-plugin/
   .claude-plugin/
     marketplace.json
     plugin.json
